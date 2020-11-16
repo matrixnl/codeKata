@@ -24,13 +24,13 @@ Run the server
 docker-compose up --build
 ```
 
+The server will be up on [http://localhost:5000](http://localhost:5000).
+
 Run the tests
 
 ```bash
 python -m pytest
 ```
-
-The server will be up on [http://localhost:5000](http://localhost:5000).
 
 ## Requirements
 
