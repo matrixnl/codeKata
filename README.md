@@ -15,7 +15,7 @@
 Clone the repo
 
 ```bash
-https://github.com/matrixnl/codeKata.git
+git clone https://github.com/matrixnl/codeKata.git
 ```
 
 Run the server
